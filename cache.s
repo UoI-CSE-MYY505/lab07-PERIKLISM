@@ -1,6 +1,6 @@
         .data
 padding:
-        .zero 0  # (number in bytes) modify to see mapping to different cache indices am 5523 periklis bourlis
+        .zero 0  # (number in bytes) modify to see mapping to different cache indices am 5523 periklis bourlis.
 array:
         .word   1
         .zero  2048   # Large enough for all variations of the lab.
